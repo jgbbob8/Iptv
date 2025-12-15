@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="La1.es@HEVC",La 1 HEVC (1080p)
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD",La 2 (1080p)
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 (1080p)
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es@SD",Cuatro (1080p)
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es@SD",Telecinco (1080p)
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es@SD",La Sexta (1080p)
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="BeMad.es@SD",Be Mad (1080p)
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es@SD",Paramount Network Spain (1080p)
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es@SD",Mega (1080p)
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="Divinity.es@SD",Divinity (1080p)
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es@SD",El Toro TV (720p)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Trece.es@SD",Trece (1080p)
+http://176.65.146.237:8401/play/a0a9/index.m3u8
