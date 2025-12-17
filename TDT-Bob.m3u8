@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.es@HEVC",La 1 HEVC (1080p)
 http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 HD" tvg-logo="https://od.lk/s/NThfNTk3MjUzMjNf/la1hd.png" group-title="== GENERALISTAS",La 1 HD
-http://jojhetz.zaz.ovh:8080/live/4YB05304Y1992323S/11042022/262e28d8-cb94-4297-84f3-547d58e15bc6.m3u8
 #EXTINF:-1 tvg-id="La1.es@SD",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.es@SD",La 2 (1080p)
@@ -17,15 +15,9 @@ http://176.65.146.237:8401/play/a09s/index.m3u8
 http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es@SD",La Sexta (1080p)
 http://176.65.146.237:8401/play/a0af/index.m3u8
-#EXTINF:-1 tvg-id="BeMad.es@SD",Be Mad (1080p)
-http://176.65.146.237:8401/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-id="Be Mad" tvg-name="Be Mad FHD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/05_life_style/bemadfhd.png" group-title="== CINE",Be Mad FHD
-http://jojhetz.zaz.ovh:8080/live/4YB05304Y1992323S/11042022/7c4d2c90-9e1a-4acd-ae44-d0fa55fce265.m3u8
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="Be Mad HD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/05_life_style/bemadfhd.png" group-title="== CINE",Be Mad HD
+#EXTINF:-1 tvg-id="BE MAD",Be Mad HD
 http://jojhetz.zaz.ovh:8080/live/4YB05304Y1992323S/11042022/15031746-10eb-44d7-bca7-f1cccae85834.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.es@SD",Paramount Network Spain (1080p)
-http://176.65.146.237:8401/play/a09i/index.m3u8
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network FHD" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/paramount_200x200.png" group-title="== CINE",Paramount Network FHD
+#EXTINF:-1 tvg-id="Paramount Network",Paramount Network FHD
 http://jojhetz.zaz.ovh:8080/live/4YB05304Y1992323S/11042022/90e5fa6a-4426-4a6b-a4b8-9ee17838f7cd.m3u8
 #EXTINF:-1 tvg-id="Mega.es@SD",Mega (1080p)
 http://176.65.146.237:8401/play/a0a5/index.m3u8
